@@ -1,0 +1,20 @@
+{
+  "name": "next-crwn-clothing",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "axios": "^0.21.0",
+    "firebase": "^8.0.2",
+    "next": "10.0.2",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-stripe-checkout": "^2.6.3",
+    "stripe": "^8.125.0",
+    "styled-components": "^5.2.1"
+  }
+}
